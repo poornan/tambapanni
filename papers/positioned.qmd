@@ -1,0 +1,76 @@
+---
+title: "Tambapanni Positioned"
+subtitle: "A Strategic Framework for State Building and Macroeconomic Opportunity"
+date: 2026-03-01
+author:
+  - name: Ananthaneshan Elampoornan
+    orcid: 0009-0004-9181-2270
+google-scholar: true
+citation:
+  type: article
+  container-title: "Tambapanni White Paper Series"
+  issued: 2026-03
+  url: https://tambapanni.github.io/papers/positioned.html
+categories: [political-economy, state-building, institutional-reform, sri-lanka]
+abstract: |
+  A macroeconomic window is opening that small island economies at maritime
+  trade intersections have historically used to leap forward. The constraint
+  is not geography, talent, or capital availability. The constraint is
+  institutional. A state built on ethnic and religious patronage cannot
+  negotiate binding long-term infrastructure contracts, cannot attract the
+  regulatory environment that global clients require, and cannot make
+  credible commitments without those commitments being reversed by the next
+  electoral cycle. This paper maps the specific reforms required: an
+  impartial state apparatus prior to ethnicity, the rule of law as
+  operational fact, and a forward-looking national myth built on prosperity.
+---
+
+## Part 2 of the Tambapanni Series
+
+**Status:** Complete · v1.14 · March 2026
+
+**Companion to:** [Tambapanni: A History Without Borders](history.qmd)
+
+### Abstract
+
+For most of recorded history, the island known today as Sri Lanka sat at the centre of the world's most productive trading system. The 19th and 20th centuries interrupted that centrality. The 21st century is restoring it. A macroeconomic window is opening that small island economies at maritime trade intersections have historically used to leap forward.
+
+The constraint is not geography, talent, or capital availability. The constraint is institutional. A state built on ethnic and religious patronage cannot negotiate binding long-term infrastructure contracts, cannot attract the regulatory environment that global technology and financial services clients require, and cannot make credible commitments to foreign partners without those commitments being reversed by the next electoral cycle.
+
+This paper makes three arguments:
+
+1. **The window is real and time-limited.** The macroeconomic conditions that enabled Singapore, Taiwan, South Korea, Estonia, Rwanda, and Mauritius to leap forward each operated within a specific temporal window.
+
+2. **Capturing the window requires institutional reform, not infrastructure spending.** Specifically, the construction of an impartial state apparatus prior to ethnicity and religion in its founding logic.
+
+3. **The agent of reform is not the state itself** but a coalition of actors who share a forward-looking myth of national identity: prosperity as the shared telos, religion and language as personal rather than civic affairs.
+
+### Key Sections
+
+- **The Indian Ocean Positioning** — strategic geography and the maritime trade corridor opportunity
+- **China's Manufacturing Overcapacity** — the supply chain restructuring window
+- **ASEAN and the Pooling Argument** — why institutional reform is the precondition for regional integration
+- **The Education and Diaspora Trap** — brain drain as an ergodicity trap, not a loyalty failure
+- **Domestic Pooling** — cooperative governance and the Iranamadu case study
+- **The Constitutional Question** — civic vs. ethnic founding logic
+
+### Frameworks Applied
+
+- **Fukuyama** — Every contemporary problem maps onto the sequencing failure
+- **Dellanna** — Ergodicity, absorbing barriers, the power law trap for the majority
+- **Snowden** — Complex-domain navigation, Estuarine mapping for implementation
+- **Mahbubani** — Undeniable comparators: Singapore, Rwanda, Estonia, Mauritius
+
+### Downloads
+
+::: {.paper-links}
+[DOI (coming soon)](#){title="Coming soon"} [SSRN (coming soon)](#){title="Coming soon"}
+:::
+
+### Citation
+
+Elampoornan, A. (2026). *Tambapanni Positioned: A Strategic Framework for State Building and Macroeconomic Opportunity.* ORCID: [0009-0004-9181-2270](https://orcid.org/0009-0004-9181-2270)
+
+---
+
+[← Back to series overview](../index.qmd)

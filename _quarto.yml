@@ -1,0 +1,44 @@
+project:
+  type: website
+  output-dir: _site
+
+website:
+  title: "TAMBAPANNI"
+  description: "A three-part white paper series on state-building. The civic state must be prior to ethnicity."
+  site-url: https://tambapanni.github.io  # update when repo is created
+  navbar:
+    background: "#1a1a2e"
+    foreground: "#ffffff"
+    left:
+      - text: Home
+        href: index.qmd
+      - text: "Part 1: History"
+        href: papers/history.qmd
+      - text: "Part 2: Positioned"
+        href: papers/positioned.qmd
+    right:
+      - icon: github
+        href: https://github.com/  # update when repo is created
+      - text: ORCID
+        href: https://orcid.org/0009-0004-9181-2270
+  page-footer:
+    center: "&copy; 2026 Ananthaneshan Elampoornan"
+    right:
+      - text: "ORCID: 0009-0004-9181-2270"
+        href: https://orcid.org/0009-0004-9181-2270
+  open-graph: true
+  google-scholar: true
+
+format:
+  html:
+    theme:
+      - cosmo
+      - custom.scss
+    toc: false
+    mainfont: Georgia, 'Times New Roman', serif
+    fontsize: 17px
+    linestretch: 1.7
+
+author:
+  - name: Ananthaneshan Elampoornan
+    orcid: 0009-0004-9181-2270

@@ -1,0 +1,144 @@
+---
+title: "TAMBAPANNI"
+subtitle: "A White Paper Series on State-Building"
+page-layout: full
+toc: false
+---
+
+::: {.hero}
+# TAMBAPANNI
+
+::: {.subtitle}
+A White Paper Series on State-Building
+:::
+
+::: {.author-line}
+Ananthaneshan Elampoornan
+[{{< iconify simple-icons orcid >}} 0009-0004-9181-2270](https://orcid.org/0009-0004-9181-2270)
+:::
+
+:::
+
+::: {.thesis}
+> The civic state must be prior to ethnicity. The division between communities
+> was manufactured in the 19th century, not ancient. Every problem traced in
+> these papers is the structural output of a specific institutional sequencing
+> error that has a known diagnosis and a known remedy.
+:::
+
+## The Series
+
+::: {.paper-card}
+::: {.paper-number}
+Part 1
+:::
+
+### [Tambapanni: A History Without Borders](papers/history.qmd)
+
+::: {.paper-subtitle}
+Reconstructing the Identity of the Island Known Today as Sri Lanka, Free from Post-Westphalian Projection and Colonial Epistemic Framing
+:::
+
+::: {.paper-status}
+Complete · v1.16 · March 2026
+:::
+
+Every history is written through a lens. The dominant historiography of the island has been written through three overlapping lenses that systematically distort the evidence: the post-Westphalian nation-state framework, the Germanic Aryan philological tradition, and the colonial administrative need for fixed ethnic categories. This paper reconstructs a pre-colonial history that was connective rather than exclusive, riverine rather than bounded, Sanskrit-oceanic rather than ethnically fixed.
+
+::: {.paper-links}
+[DOI (coming soon)](#){title="Coming soon"} [SSRN (coming soon)](#){title="Coming soon"}
+:::
+
+:::
+
+::: {.paper-card}
+::: {.paper-number}
+Part 2
+:::
+
+### [Tambapanni Positioned](papers/positioned.qmd)
+
+::: {.paper-subtitle}
+A Strategic Framework for State Building and Macroeconomic Opportunity
+:::
+
+::: {.paper-status}
+Complete · v1.14 · March 2026
+:::
+
+A macroeconomic window is opening that small island economies at maritime trade intersections have historically used to leap forward. The constraint is not geography, talent, or capital availability. The constraint is institutional. This paper maps the specific reforms required to capture the window: an impartial state apparatus prior to ethnicity, the rule of law as operational fact, and a forward-looking national myth built on prosperity rather than a mythologised past.
+
+::: {.paper-links}
+[DOI (coming soon)](#){title="Coming soon"} [SSRN (coming soon)](#){title="Coming soon"}
+:::
+
+:::
+
+::: {.paper-card .forthcoming}
+::: {.paper-number}
+Part 3
+:::
+
+### Implementation Archetypes
+
+::: {.paper-subtitle}
+How the Mental Models Become Operational
+:::
+
+::: {.paper-status}
+Forthcoming
+:::
+
+Replicable institutional archetypes that a reformer can use directly: cooperative land governance, gross cost contracts as policy instruments, SIAC/arbitration adoption, meritocratic civil service design, and ASEAN accession as sequenced institutional reform.
+:::
+
+## Analytical Frameworks
+
+The series builds its argument through five complementary frameworks:
+
+::: {.framework-grid}
+
+::: {.framework}
+#### Fukuyama
+The order in which state institutions develop has path-dependent consequences. The impartial state must precede democratic accountability.
+:::
+
+::: {.framework}
+#### Mahbubani
+The reader must end up as the analyst, not the accused. Arguments are framed as intelligence shared, not verdicts delivered.
+:::
+
+::: {.framework}
+#### Dellanna
+Non-ergodic systems require protecting the individual time path from absorbing barriers. Pooling is rational self-interest, not altruism.
+:::
+
+::: {.framework}
+#### Snowden
+State-building is complex, not complicated. Navigate through probe-sense-respond, not design-plan-execute.
+:::
+
+::: {.framework}
+#### Ackoff
+Reactivism, the conviction that the past was superior, is the planning error encoded in constitutional law.
+:::
+
+:::
+
+## The Core Argument
+
+1. **The division is manufactured.** The Sinhalese-Tamil division was constructed in the 19th century through colonial administration, Orientalist philology, and competitive nationalist mobilisation. The Nayak kings, four Telugu Hindu rulers who became the greatest patrons of Sinhala Buddhism, are proof that the categories were not fixed.
+
+2. **The sequencing failure is the diagnosis.** Universal suffrage arrived in 1931, before a professional state apparatus existed. Democratic competition immediately became ethnic patronage competition, because ethnic identity was the only available mobilising vehicle.
+
+3. **Institutional reform is the precondition.** No intervention compounds without the impartial state as foundation. Infrastructure, trade agreements, education reform, foreign investment: all require institutional quality that ethnic patronage structurally prevents.
+
+4. **The window is real and time-limited.** The macroeconomic conditions that enabled Singapore, Taiwan, South Korea, Estonia, Rwanda, and Mauritius to leap forward each operated within a specific temporal window. The Indian Ocean's emergence as the dominant trade corridor of the 21st century creates that window now.
+
+## About
+
+This is a living document series. Versions are tagged, archived, and citable. The work addresses citizens of Tambapanni and reformers. It is never segmented by ethnicity or language. All problems are structural; all remedies serve all citizens.
+
+::: {.cite-as}
+**Cite as:** Elampoornan, A. (2026). *Tambapanni: A History Without Borders*. ORCID: [0009-0004-9181-2270](https://orcid.org/0009-0004-9181-2270)
+:::

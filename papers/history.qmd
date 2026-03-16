@@ -1,0 +1,65 @@
+---
+title: "Tambapanni: A History Without Borders"
+subtitle: "Reconstructing the Identity of the Island Known Today as Sri Lanka, Free from Post-Westphalian Projection and Colonial Epistemic Framing"
+date: 2026-03-01
+author:
+  - name: Ananthaneshan Elampoornan
+    orcid: 0009-0004-9181-2270
+google-scholar: true
+citation:
+  type: article
+  container-title: "Tambapanni White Paper Series"
+  issued: 2026-03
+  url: https://tambapanni.github.io/papers/history.html
+categories: [political-economy, state-building, historiography, sri-lanka]
+abstract: |
+  Every history is written through a lens. The dominant historiography of the
+  island known today as Sri Lanka has been written through three overlapping
+  lenses that systematically distort the evidence: the post-Westphalian
+  nation-state framework, the Germanic Aryan philological tradition, and the
+  colonial administrative need for fixed ethnic categories. This paper
+  reconstructs a pre-colonial history that was connective rather than
+  exclusive, riverine rather than bounded, Sanskrit-oceanic rather than
+  ethnically fixed. The Sinhalese-Tamil division was manufactured in the
+  19th century, not ancient.
+---
+
+## Part 1 of the Tambapanni Series
+
+**Status:** Complete · v1.16 · March 2026
+
+### Abstract
+
+Every history is written through a lens. The dominant historiography of the island known today as Sri Lanka has been written through three overlapping lenses that systematically distort the evidence: the post-Westphalian nation-state framework, the Germanic Aryan philological tradition, and the colonial administrative need for fixed ethnic categories.
+
+This paper reconstructs a pre-colonial history that was connective rather than exclusive, riverine rather than bounded, Sanskrit-oceanic rather than ethnically fixed. The Sinhalese-Tamil division was manufactured in the 19th century through colonial administration, Orientalist philology, and competitive nationalist mobilisation. The Nayak kings, four Telugu Hindu rulers from Madurai who became the greatest patrons of Sinhala Buddhism, are proof that the categories were not fixed even inside the kingdom whose identity they supposedly defined.
+
+### Key Arguments
+
+- **The Vijaya origin is a geography argument, not a culture argument.** The Mahavamsa's *Lala* points to the Gujarat/Rajasthan coast, not Bengal. The Bengal reading is a 19th-century philological error by Geiger, operating within the Germanic Aryan racial framework.
+
+- **The Nayak kings disprove primordial division.** Four Telugu Hindu rulers became the greatest patrons of Sinhala Buddhism, commissioning temples, sponsoring ordination lines, and governing a Buddhist polity. The categories were not fixed.
+
+- **Colonial administration manufactured fixed categories.** The 1871 census, Orientalist philology, and the Donoughmore Constitution's introduction of universal suffrage in 1931 (before a professional state apparatus existed) created the conditions for ethnic patronage competition.
+
+- **The Sinhala Only Act of 1956 is a sequencing failure, not ethnic hatred.** It is the mathematically predictable output of democratic competition operating without the impartial institutional architecture that would have constrained what a majority could do with its majority.
+
+### Frameworks Applied
+
+- **Fukuyama** — Institutional sequencing: democracy arrived before the impartial state
+- **Mahbubani** — Begin further back than necessary; the reader concludes, not the author
+- **Ackoff** — Reactivism (recovering an idealised past) is the planning error
+
+### Downloads
+
+::: {.paper-links}
+[DOI (coming soon)](#){title="Coming soon"} [SSRN (coming soon)](#){title="Coming soon"}
+:::
+
+### Citation
+
+Elampoornan, A. (2026). *Tambapanni: A History Without Borders.* ORCID: [0009-0004-9181-2270](https://orcid.org/0009-0004-9181-2270)
+
+---
+
+[← Back to series overview](../index.qmd)

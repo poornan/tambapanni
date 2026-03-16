@@ -14,7 +14,7 @@ A White Paper Series on State-Building
 
 ::: {.author-line}
 Ananthaneshan Elampoornan
-[{{< iconify simple-icons orcid >}} 0009-0004-9181-2270](https://orcid.org/0009-0004-9181-2270)
+[ORCID 0009-0004-9181-2270](https://orcid.org/0009-0004-9181-2270)
 :::
 
 :::

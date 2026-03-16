@@ -11,6 +11,7 @@ citation:
   container-title: "Tambapanni White Paper Series"
   issued: 2026-03
   url: https://tambapanni.github.io/papers/positioned.html
+  pdf-url: https://tambapanni.github.io/papers/pdf/2. Tambapanni_Positioned.pdf
 categories: [political-economy, state-building, institutional-reform, sri-lanka]
 abstract: |
   A macroeconomic window is opening that small island economies at maritime
@@ -63,9 +64,7 @@ This paper makes three arguments:
 
 ### Downloads
 
-::: {.paper-links}
-[DOI (coming soon)](#){title="Coming soon"} [SSRN (coming soon)](#){title="Coming soon"}
-:::
+[Download PDF](pdf/2.%20Tambapanni_Positioned.pdf){.btn .btn-primary} [DOI (coming soon)](#){.btn .btn-outline-secondary title="Coming soon"} [SSRN (coming soon)](#){.btn .btn-outline-secondary title="Coming soon"}
 
 ### Citation
 

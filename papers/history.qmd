@@ -12,6 +12,7 @@ citation:
   issued: 2026-03
   url: https://tambapanni.github.io/papers/history.html
   pdf-url: https://tambapanni.github.io/papers/pdf/1. Tambapanni_History_Without_Borders.pdf
+  doi: 10.5072/zenodo.471074
 categories: [political-economy, state-building, historiography, sri-lanka]
 abstract: |
   Every history is written through a lens. The dominant historiography of the
@@ -53,7 +54,7 @@ This paper reconstructs a pre-colonial history that was connective rather than e
 
 ### Downloads
 
-[Download PDF](pdf/1.%20Tambapanni_History_Without_Borders.pdf){.btn .btn-primary} [DOI (coming soon)](#){.btn .btn-outline-secondary title="Coming soon"} [SSRN (coming soon)](#){.btn .btn-outline-secondary title="Coming soon"}
+[Download PDF](pdf/1.%20Tambapanni_History_Without_Borders.pdf){.btn .btn-primary} [DOI: 10.5072/zenodo.471074](https://doi.org/10.5072/zenodo.471074){.btn .btn-outline-secondary}
 
 ### Citation
 

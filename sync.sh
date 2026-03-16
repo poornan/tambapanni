@@ -41,17 +41,30 @@ p_ver=$(grep -m1 '^version:' "$PROJECT_DIR/src/positioned.md" | sed 's/version:\
 
 if [ -n "$h_ver" ]; then
     sed -i "s/Complete · v[0-9.]* · /Complete · $h_ver · /" "$PAGES_DIR/papers/history.qmd"
-    # Update on landing page too (Part 1 card)
-    sed -i "0,/Complete · v[0-9.]*/s/Complete · v[0-9.]*/Complete · $h_ver/" "$PAGES_DIR/index.qmd"
     echo "  History: $h_ver"
 fi
 
 if [ -n "$p_ver" ]; then
     sed -i "s/Complete · v[0-9.]* · /Complete · $p_ver · /" "$PAGES_DIR/papers/positioned.qmd"
-    # Update on landing page (Part 2 card — second occurrence)
-    sed -i "0,/Complete · v[0-9.]*/{//!b; s/Complete · v[0-9.]*/Complete · $p_ver/}" "$PAGES_DIR/index.qmd"
     echo "  Positioned: $p_ver"
 fi
+
+# Update landing page using node for precision (sed can't distinguish the two cards)
+node -e "
+    const fs = require('fs');
+    let content = fs.readFileSync('$PAGES_DIR/index.qmd', 'utf8');
+    // Part 1 version: between 'History Without Borders' and 'Part 2'
+    content = content.replace(
+        /(History Without Borders[\s\S]*?Complete · )v[0-9.]+/,
+        '\$1$h_ver'
+    );
+    // Part 2 version: between 'Tambapanni Positioned' and 'Part 3'
+    content = content.replace(
+        /(Tambapanni Positioned[\s\S]*?Complete · )v[0-9.]+/,
+        '\$1$p_ver'
+    );
+    fs.writeFileSync('$PAGES_DIR/index.qmd', content);
+"
 
 # ── Step 3: Update DOI links if .zenodo.json exists ─────────────────────────
 

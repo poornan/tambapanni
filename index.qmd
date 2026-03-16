@@ -104,8 +104,8 @@ The order in which state institutions develop has path-dependent consequences. T
 :::
 
 ::: {.framework}
-#### Mahbubani
-The reader must end up as the analyst, not the accused. Arguments are framed as intelligence shared, not verdicts delivered.
+#### Mahbubani (distilled)
+The reader must end up as the analyst, not the accused. A presentation style extracted from Mahbubani's craft, not a published framework.
 :::
 
 ::: {.framework}

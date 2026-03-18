@@ -1,6 +1,6 @@
 ---
-title: "Tambapanni: A History Without Borders"
-subtitle: "Reconstructing the Identity of the Island Known Today as Sri Lanka, Free from Post-Westphalian Projection and Colonial Epistemic Framing"
+title: "TAMBAPANNI: A History Without Borders"
+subtitle: "Reconstructing the Identity of the Island Known Today as Sri Lanka"
 date: 2026-03-01
 author:
   - name: Ananthaneshan Elampoornan
@@ -15,16 +15,9 @@ citation:
   doi: 10.5072/zenodo.471074
 categories: [political-economy, state-building, historiography, sri-lanka]
 abstract: |
-  Every history is written through a lens. The dominant historiography of the
-  island known today as Sri Lanka has been written through three overlapping
-  lenses that systematically distort the evidence: the post-Westphalian
-  nation-state framework, the Germanic Aryan philological tradition, and the
-  colonial administrative need for fixed ethnic categories. This paper
-  reconstructs a pre-colonial history that was connective rather than
-  exclusive, riverine rather than bounded, Sanskrit-oceanic rather than
-  ethnically fixed. The political division between Sinhalese and Tamil
-  communities was manufactured in the 19th century from real cultural
-  difference that was neither exclusivist nor state-constitutive.
+  Every history is written through a lens. The question is whether the historian acknowledges the lens. The dominant historiography of the island known today as Sri Lanka, in antiquity Tambapanni to its earliest inhabitants, Taprobane to Greek and Roman traders, Serendib to Arab navigators, has been written through three overlapping lenses that systematically distort the evidence: the post-Westphalian nation-state framework, the Germanic Aryan philological tradition, and the colonial administrative need for fixed ethnic categories.
+  
+  This document does not claim to be free of perspective. It makes its perspective explicit, and follows two foundational principles: that the political problems of the island cannot be resolved without understanding the false historical foundation on which they have been built; and that understanding that foundation requires a framework for what a modern democratic state actually requires, and why the island has never had one.
 ---
 
 ## Part 1 of the Tambapanni Series
@@ -33,25 +26,25 @@ abstract: |
 
 ### Abstract
 
-Every history is written through a lens. The dominant historiography of the island known today as Sri Lanka has been written through three overlapping lenses that systematically distort the evidence: the post-Westphalian nation-state framework, the Germanic Aryan philological tradition, and the colonial administrative need for fixed ethnic categories.
+Every history is written through a lens. The question is whether the historian acknowledges the lens. The dominant historiography of the island known today as Sri Lanka, in antiquity Tambapanni to its earliest inhabitants, Taprobane to Greek and Roman traders, Serendib to Arab navigators, has been written through three overlapping lenses that systematically distort the evidence: the post-Westphalian nation-state framework, the Germanic Aryan philological tradition, and the colonial administrative need for fixed ethnic categories.
 
-This paper reconstructs a pre-colonial history that was connective rather than exclusive, riverine rather than bounded, Sanskrit-oceanic rather than ethnically fixed. The Sinhalese-Tamil division was manufactured in the 19th century through colonial administration, Orientalist philology, and competitive nationalist mobilisation. The Nayak kings, four Telugu Hindu rulers from Madurai who became the greatest patrons of Sinhala Buddhism, are proof that the categories were not fixed even inside the kingdom whose identity they supposedly defined.
+This document does not claim to be free of perspective. It makes its perspective explicit, and follows two foundational principles: that the political problems of the island cannot be resolved without understanding the false historical foundation on which they have been built; and that understanding that foundation requires a framework for what a modern democratic state actually requires, and why the island has never had one.
 
 ### Key Arguments
 
-- **The Vijaya origin is a geography argument, not a culture argument.** The Mahavamsa's *Lala* points to the Gujarat/Rajasthan coast, not Bengal. The Bengal reading is a 19th-century philological error by Geiger, operating within the Germanic Aryan racial framework.
+- **The Vijaya origin is a geography argument, not a culture argument.** The Mahavamsa's Lala points to the Gujarat/Rajasthan coast, not Bengal.
 
-- **The Nayak kings disprove primordial division.** Four Telugu Hindu rulers became the greatest patrons of Sinhala Buddhism, commissioning temples, sponsoring ordination lines, and governing a Buddhist polity. The categories were not fixed.
+- **The Nayak kings disprove primordial exclusivism.** Four Telugu Hindu rulers became the greatest patrons of Sinhala Buddhism. The categories were socially real but not politically exclusivist.
 
-- **Colonial administration manufactured fixed categories.** The 1871 census, Orientalist philology, and the Donoughmore Constitution's introduction of universal suffrage in 1931 (before a professional state apparatus existed) created the conditions for ethnic patronage competition.
+- **Colonial administration manufactured fixed categories.** The 1871 census, Orientalist philology, and premature democratisation created the conditions for ethnic patronage competition.
 
-- **The Sinhala Only Act of 1956 is a sequencing failure, not ethnic hatred.** It is the mathematically predictable output of democratic competition operating without the impartial institutional architecture that would have constrained what a majority could do with its majority.
+- **The Sinhala Only Act is a sequencing failure, not ethnic hatred.** Pre-existing cultural difference was the fuel. Democratic competition without constitutional constraint was the ignition.
+
+- **Dynastic competition was not ethnic warfare.** Chola, Polonnaruwa, and Magha episodes were political events within a connected civilisation, not invasions across an ethnic boundary.
 
 ### Frameworks Applied
 
-- **Fukuyama** — Institutional sequencing: democracy arrived before the impartial state
-- **Mahbubani** — Begin further back than necessary; the reader concludes, not the author
-- **Ackoff** — Reactivism (recovering an idealised past) is the planning error
+- **Fukuyama** — Institutional sequencing: the impartial state must precede democratic accountability
 
 ### Downloads
 
@@ -59,7 +52,7 @@ This paper reconstructs a pre-colonial history that was connective rather than e
 
 ### Citation
 
-Elampoornan, A. (2026). *Tambapanni: A History Without Borders.* ORCID: [0009-0004-9181-2270](https://orcid.org/0009-0004-9181-2270)
+Elampoornan, A. (2026). Tambapanni: A History Without Borders, v1.17. orcid.org/0009-0004-9181-2270
 
 ---
 

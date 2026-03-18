@@ -19,7 +19,7 @@ NC='\033[0m'
 
 # ── Step 1: Copy PDFs ──────────────────────────────────────────────────────
 
-echo -e "${BLUE}[1/3] Syncing PDFs from main project...${NC}"
+echo -e "${BLUE}[1/4] Syncing PDFs from main project...${NC}"
 
 HISTORY_PDF="$PROJECT_DIR/output/1. Tambapanni_History_Without_Borders.docx"
 POSITIONED_PDF="$PROJECT_DIR/output/2. Tambapanni_Positioned.docx"
@@ -32,9 +32,14 @@ else
     echo -e "${RED}  Docx files not found. Run './tambapanni.sh build' first.${NC}"
 fi
 
-# ── Step 2: Update versions from source front matter ────────────────────────
+# ── Step 2: Regenerate paper pages from source ───────────────────────────────
 
-echo -e "${BLUE}[2/3] Updating version numbers...${NC}"
+echo -e "${BLUE}[2/4] Regenerating paper pages from source...${NC}"
+node "$PAGES_DIR/generate-pages.js"
+
+# ── Step 3: Update versions on landing page ──────────────────────────────────
+
+echo -e "\n${BLUE}[3/4] Updating landing page versions...${NC}"
 
 h_ver=$(grep -m1 '^version:' "$PROJECT_DIR/src/history.md" | sed 's/version:\s*//')
 p_ver=$(grep -m1 '^version:' "$PROJECT_DIR/src/positioned.md" | sed 's/version:\s*//')
@@ -68,7 +73,7 @@ node -e "
 
 # ── Step 3: Update DOI links if .zenodo.json exists ─────────────────────────
 
-echo -e "${BLUE}[3/3] Checking DOI state...${NC}"
+echo -e "${BLUE}[4/4] Checking DOI state...${NC}"
 
 if [ ! -f "$ZENODO_STATE" ]; then
     echo "  No .zenodo.json found. DOI links unchanged."

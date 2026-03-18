@@ -28,7 +28,7 @@ abstract: |
 
 ## Part 1 of the Tambapanni Series
 
-**Status:** Complete · v1.16 · March 2026
+**Status:** Complete · v1.17 · March 2026
 
 ### Abstract
 

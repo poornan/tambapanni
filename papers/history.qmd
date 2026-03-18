@@ -15,9 +15,7 @@ citation:
   doi: 10.5072/zenodo.471074
 categories: [political-economy, state-building, historiography, sri-lanka]
 abstract: |
-  Every history is written through a lens. The question is whether the historian acknowledges the lens. The dominant historiography of the island known today as Sri Lanka, in antiquity Tambapanni to its earliest inhabitants, Taprobane to Greek and Roman traders, Serendib to Arab navigators, has been written through three overlapping lenses that systematically distort the evidence: the post-Westphalian nation-state framework, the Germanic Aryan philological tradition, and the colonial administrative need for fixed ethnic categories.
-  
-  This document does not claim to be free of perspective. It makes its perspective explicit, and follows two foundational principles: that the political problems of the island cannot be resolved without understanding the false historical foundation on which they have been built; and that understanding that foundation requires a framework for what a modern democratic state actually requires, and why the island has never had one.
+  Every history is written through a lens. The dominant historiography of the island known today as Sri Lanka has been written through three overlapping lenses that systematically distort the evidence: the post-Westphalian nation-state framework, the Germanic Aryan philological tradition, and the colonial administrative need for fixed ethnic categories. A modern democratic state rests on three institutional pillars: an effective and impartial state apparatus, the rule of law that binds even the most powerful actors, and democratic accountability through which citizens hold the state to account. The critical word is impartial. Sri Lanka democratized before it built a strong, impartial state. When democratic competition arrives before an impartial state exists, the question that every election answers is not which programme will serve all citizens best but which constituency will the state serve next. The problems of Tambapanni will never be resolved if they continue to be approached as a conflict between two ancient communities with irreconcilable identities. They are a structural problem of state formation: a state that was handed democratic machinery before it had been built as an impartial institution.
 ---
 
 ## Part 1 of the Tambapanni Series
@@ -26,25 +24,26 @@ abstract: |
 
 ### Abstract
 
-Every history is written through a lens. The question is whether the historian acknowledges the lens. The dominant historiography of the island known today as Sri Lanka, in antiquity Tambapanni to its earliest inhabitants, Taprobane to Greek and Roman traders, Serendib to Arab navigators, has been written through three overlapping lenses that systematically distort the evidence: the post-Westphalian nation-state framework, the Germanic Aryan philological tradition, and the colonial administrative need for fixed ethnic categories.
-
-This document does not claim to be free of perspective. It makes its perspective explicit, and follows two foundational principles: that the political problems of the island cannot be resolved without understanding the false historical foundation on which they have been built; and that understanding that foundation requires a framework for what a modern democratic state actually requires, and why the island has never had one.
+Every history is written through a lens. The dominant historiography of the island known today as Sri Lanka has been written through three overlapping lenses that systematically distort the evidence: the post-Westphalian nation-state framework, the Germanic Aryan philological tradition, and the colonial administrative need for fixed ethnic categories. A modern democratic state rests on three institutional pillars: an effective and impartial state apparatus, the rule of law that binds even the most powerful actors, and democratic accountability through which citizens hold the state to account. The critical word is impartial. Sri Lanka democratized before it built a strong, impartial state. When democratic competition arrives before an impartial state exists, the question that every election answers is not which programme will serve all citizens best but which constituency will the state serve next. The problems of Tambapanni will never be resolved if they continue to be approached as a conflict between two ancient communities with irreconcilable identities. They are a structural problem of state formation: a state that was handed democratic machinery before it had been built as an impartial institution.
 
 ### Key Arguments
 
-- **The Vijaya origin is a geography argument, not a culture argument.** The Mahavamsa's Lala points to the Gujarat/Rajasthan coast, not Bengal.
+- **The Sinhalese-Tamil division was manufactured in the 19th century, not ancient** The Nayak kings prove this: four Telugu Hindu rulers who became the greatest patrons of Sinhala Buddhism, impossible if ethnic categories were primordial.
 
-- **The Nayak kings disprove primordial exclusivism.** Four Telugu Hindu rulers became the greatest patrons of Sinhala Buddhism. The categories were socially real but not politically exclusivist.
+- **Vijaya's origin was Gujarat/Lala, not Bengal due to translation errors** The Bengal reading stems from 19th-century philological mistakes by Turnour and Geiger, while textual and geographic evidence points to western India.
 
-- **Colonial administration manufactured fixed categories.** The 1871 census, Orientalist philology, and premature democratisation created the conditions for ethnic patronage competition.
+- **Sri Lanka suffered Fukuyama's sequencing failure: democratization before state-building** Universal suffrage in 1931 preceded the construction of an impartial state apparatus, making democratic competition into ethnic patronage competition.
 
-- **The Sinhala Only Act is a sequencing failure, not ethnic hatred.** Pre-existing cultural difference was the fuel. Democratic competition without constitutional constraint was the ignition.
+- **Institutional reform is the precondition, not one item on a parallel track** No intervention can compound without the impartial state as foundation—infrastructure, education, and economic reform all require this substrate.
 
-- **Dynastic competition was not ethnic warfare.** Chola, Polonnaruwa, and Magha episodes were political events within a connected civilisation, not invasions across an ethnic boundary.
+- **The argument must operate above the ethnic frame, never within it** Arguing ethnic proximity or distance reinforces the premise that ethnicity is the relevant axis; the move is to ask why ethnicity is a state function at all.
+
+- **Constitutional attachment to founding mythology is reactivism encoded in law** Ackoff's framework identifies this as the planning error that looks backward to an idealized past rather than designing forward from modern realities.
 
 ### Frameworks Applied
 
-- **Fukuyama** — Institutional sequencing: the impartial state must precede democratic accountability
+- **Fukuyama Sequencing** — The order in which state institutions develop has profound consequences—impartial state apparatus must precede democratic accountability to avoid patronage capture
+- **Ackoff Planning Attitudes** — Distinguishes reactivism (past-oriented) from interactive planning (future-designing)—constitutional attachment to founding mythology is reactivism encoded in law
 
 ### Downloads
 

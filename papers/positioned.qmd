@@ -15,11 +15,7 @@ citation:
   doi: 10.5072/zenodo.471080
 categories: [political-economy, state-building, institutional-reform, sri-lanka]
 abstract: |
-  For most of recorded history, the island known today as Sri Lanka sat at the centre of the world's most productive trading system. Arab navigators called it Serendib. Roman merchants knew it as Taprobane. Every great maritime power that needed to move goods between the Persian Gulf and the South China Sea passed through its waters. The 19th and 20th centuries interrupted that centrality. The 21st century is restoring it. A macroeconomic window is opening that small island economies at maritime trade intersections have historically used to leap forward. China's manufacturing overcapacity, shifting global supply chain architecture, and the Indian Ocean's emergence as the dominant trade corridor of the 21st century create conditions that are structurally favourable to Tambapanni, the island known today as Sri Lanka. References to the International Monetary Fund (IMF) and World Bank data throughout this paper draw on the October 2024 World Economic Outlook and 2024 World Development Indicators respectively.
-  
-  The constraint is not geography, talent, or capital availability. The constraint is institutional. A state built on ethnic and religious patronage cannot negotiate binding long-term infrastructure contracts, cannot attract the regulatory environment that global technology and financial services clients require, and cannot make credible commitments to foreign partners without those commitments being reversed by the next electoral cycle.
-  
-  This paper makes three arguments. First, the window is real and time-limited: the macroeconomic conditions that enabled Singapore, Taiwan, South Korea, Estonia, Rwanda, and Mauritius to leap forward each operated within a specific temporal window. Second, capturing the window requires not infrastructure spending but institutional reform: specifically the construction of an impartial state apparatus prior to ethnicity and religion in its founding logic. Third, the agent of that reform is not the state itself but a coalition of actors who share a forward-looking myth of national identity: prosperity as the shared telos, religion and language as personal rather than civic affairs.
+  For most of recorded history, the island known today as Sri Lanka sat at the centre of the world's most productive trading system. The 21st century is restoring that centrality. A macroeconomic window is opening that small island economies at maritime trade intersections have historically used to leap forward. China's manufacturing overcapacity, shifting global supply chain architecture, and the Indian Ocean's emergence as the dominant trade corridor create conditions structurally favourable to Tambapanni. The constraint is not geography, talent, or capital availability. The constraint is institutional. A state built on ethnic and religious patronage cannot negotiate binding long-term infrastructure contracts, cannot attract the regulatory environment that global clients require, and cannot make credible commitments to foreign partners. This paper argues the window is real and time-limited, capturing it requires institutional reform rather than infrastructure spending, and the agent of reform is a coalition sharing a forward-looking myth of prosperity as the shared telos, with religion and language as personal rather than civic affairs.
 ---
 
 ## Part 2 of the Tambapanni Series
@@ -30,29 +26,37 @@ abstract: |
 
 ### Abstract
 
-For most of recorded history, the island known today as Sri Lanka sat at the centre of the world's most productive trading system. Arab navigators called it Serendib. Roman merchants knew it as Taprobane. Every great maritime power that needed to move goods between the Persian Gulf and the South China Sea passed through its waters. The 19th and 20th centuries interrupted that centrality. The 21st century is restoring it. A macroeconomic window is opening that small island economies at maritime trade intersections have historically used to leap forward. China's manufacturing overcapacity, shifting global supply chain architecture, and the Indian Ocean's emergence as the dominant trade corridor of the 21st century create conditions that are structurally favourable to Tambapanni, the island known today as Sri Lanka. References to the International Monetary Fund (IMF) and World Bank data throughout this paper draw on the October 2024 World Economic Outlook and 2024 World Development Indicators respectively.
+For most of recorded history, the island known today as Sri Lanka sat at the centre of the world's most productive trading system. The 21st century is restoring that centrality. A macroeconomic window is opening that small island economies at maritime trade intersections have historically used to leap forward. China's manufacturing overcapacity, shifting global supply chain architecture, and the Indian Ocean's emergence as the dominant trade corridor create conditions structurally favourable to Tambapanni. The constraint is not geography, talent, or capital availability. The constraint is institutional. A state built on ethnic and religious patronage cannot negotiate binding long-term infrastructure contracts, cannot attract the regulatory environment that global clients require, and cannot make credible commitments to foreign partners. This paper argues the window is real and time-limited, capturing it requires institutional reform rather than infrastructure spending, and the agent of reform is a coalition sharing a forward-looking myth of prosperity as the shared telos, with religion and language as personal rather than civic affairs.
 
-The constraint is not geography, talent, or capital availability. The constraint is institutional. A state built on ethnic and religious patronage cannot negotiate binding long-term infrastructure contracts, cannot attract the regulatory environment that global technology and financial services clients require, and cannot make credible commitments to foreign partners without those commitments being reversed by the next electoral cycle.
+### Key Arguments
 
-This paper makes three arguments. First, the window is real and time-limited: the macroeconomic conditions that enabled Singapore, Taiwan, South Korea, Estonia, Rwanda, and Mauritius to leap forward each operated within a specific temporal window. Second, capturing the window requires not infrastructure spending but institutional reform: specifically the construction of an impartial state apparatus prior to ethnicity and religion in its founding logic. Third, the agent of that reform is not the state itself but a coalition of actors who share a forward-looking myth of national identity: prosperity as the shared telos, religion and language as personal rather than civic affairs.
+- **The macroeconomic window is real but time-limited and requires institutional quality to capture** China's manufacturing overcapacity and Indian Ocean trade corridor emergence create opportunity, but only for economies with credible dispute resolution and impartial regulation.
+
+- **Comparative advantage must precede competitive advantage in development strategy** Tambapanni has structural advantages in maritime intersection and time-zone positioning that require institutional infrastructure to monetize before pursuing manufactured competitive advantages.
+
+- **The hub-and-spoke model leverages geography while pooling reduces variance in non-ergodic systems** Tambapanni should orchestrate value flows between India, ASEAN, and Gulf regions rather than compete directly, while pooling with Singapore's frameworks reduces institutional risk.
+
+- **The education system produces credentials, not capabilities, explaining the remittance signal** University rankings below global median and 0.12% GDP research spending reflect a system designed for examination processing, while most remittances come from domestic workers, not graduates.
+
+- **Incremental reform through devolution cannot solve a structural sequencing failure** The 13th Amendment redistributes patronage rather than building impartial institutions—what's needed is constitutional reconstruction in the correct sequence.
+
+- **The majority individual loses too under ethnic patronage due to power law dynamics** Higher relative position on a constrained curve is inferior to equal position on an exponential curve—institutional quality moves the country onto the compounding trajectory.
 
 ### Key Sections
 
-- **China\'s Manufacturing Overcapacity**
-- **The Indian Ocean Positioning**
-- **The Comparisons: What the Window Looked Like Elsewhere**
-- **Ia. Comparative Advantage, Not Competitive Advantage**
-- **The Distinction**
-- **Tambapanni\'s Comparative Advantages Are Structural and Unearned**
-- **Where Tambapanni Has Been Looking Instead**
-- **The Correct Frame: Converting Comparative Into Competitive**
+- **The Window**
+- **The Constraint**
+- **The Hohpe Shift: Economies of Speed over Economies of Scale**
+- **Constitutional Design and Institutional Sequencing: Lessons Without Mythology**
+- **What Reform Actually Requires**
+- **The Movement and the Myth**
 
 ### Frameworks Applied
 
-- **Fukuyama** — Institutional sequencing: the impartial state must precede democratic accountability
-- **Mahbubani** — The reader concludes, not the author; intelligence shared, not verdicts delivered
-- **Dellanna** — Ergodicity, absorbing barriers, the power law trap for the majority
-- **Ackoff** — Reactivism (recovering an idealised past) is the planning error
+- **Fukuyama Sequencing** — Institutional development sequence determines character—impartial state apparatus must precede democratic accountability to avoid patronage capture
+- **Hohpe Economies of Speed** — In rapidly changing environments, success comes from fast learning and rate optimization rather than asset ownership and scale economics
+- **Dellanna Ergodicity** — In non-ergodic systems, time-path outcomes differ from ensemble averages—pooling is rational even when giving more than receiving because it reduces catastrophic variance
+- **Ricardo Comparative Advantage** — Countries should leverage endowed advantages before pursuing manufactured competitive advantages—institutional quality converts comparative advantage into economic outcomes
 
 ### Downloads
 

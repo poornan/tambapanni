@@ -111,10 +111,6 @@ ${yamlAbstract}
 
 **Status:** Complete · ${data.version} · ${data.date}
 ${companionLine}
-### Abstract
-
-${data.abstract}
-
 ${keySection || ''}
 
 ${frameworkSection}

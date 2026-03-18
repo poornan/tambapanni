@@ -22,10 +22,6 @@ abstract: |
 
 **Status:** Complete · v1.17 · March 2026
 
-### Abstract
-
-Every history is written through a lens. The dominant historiography of the island known today as Sri Lanka has been written through three overlapping lenses that systematically distort the evidence: the post-Westphalian nation-state framework, the Germanic Aryan philological tradition, and the colonial administrative need for fixed ethnic categories. A modern democratic state rests on three institutional pillars: an effective and impartial state apparatus, the rule of law that binds even the most powerful actors, and democratic accountability through which citizens hold the state to account. The critical word is impartial. Sri Lanka democratized before it built a strong, impartial state. When democratic competition arrives before an impartial state exists, the question that every election answers is not which programme will serve all citizens best but which constituency will the state serve next. The problems of Tambapanni will never be resolved if they continue to be approached as a conflict between two ancient communities with irreconcilable identities. They are a structural problem of state formation: a state that was handed democratic machinery before it had been built as an impartial institution.
-
 ### Key Arguments
 
 - **The Sinhalese-Tamil division was manufactured in the 19th century, not ancient** The Nayak kings prove this: four Telugu Hindu rulers who became the greatest patrons of Sinhala Buddhism, impossible if ethnic categories were primordial.

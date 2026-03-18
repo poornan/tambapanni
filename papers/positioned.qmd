@@ -24,10 +24,6 @@ abstract: |
 
 **Companion to:** [Tambapanni: A History Without Borders](history.qmd)
 
-### Abstract
-
-For most of recorded history, the island known today as Sri Lanka sat at the centre of the world's most productive trading system. The 21st century is restoring that centrality. A macroeconomic window is opening that small island economies at maritime trade intersections have historically used to leap forward. China's manufacturing overcapacity, shifting global supply chain architecture, and the Indian Ocean's emergence as the dominant trade corridor create conditions structurally favourable to Tambapanni. The constraint is not geography, talent, or capital availability. The constraint is institutional. A state built on ethnic and religious patronage cannot negotiate binding long-term infrastructure contracts, cannot attract the regulatory environment that global clients require, and cannot make credible commitments to foreign partners. This paper argues the window is real and time-limited, capturing it requires institutional reform rather than infrastructure spending, and the agent of reform is a coalition sharing a forward-looking myth of prosperity as the shared telos, with religion and language as personal rather than civic affairs.
-
 ### Key Arguments
 
 - **The macroeconomic window is real but time-limited and requires institutional quality to capture** China's manufacturing overcapacity and Indian Ocean trade corridor emergence create opportunity, but only for economies with credible dispute resolution and impartial regulation.
